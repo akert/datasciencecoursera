@@ -1,4 +1,1 @@
-##this is a heading
-#smaler heading
-*one
-*two
+## This is a markdown file
